@@ -1,1 +1,1 @@
-commands that finds all empty files
+Displays the command of all empty files
