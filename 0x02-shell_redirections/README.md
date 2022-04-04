@@ -1,1 +1,1 @@
-Displays the command of all empty files
+list all the files with .gif
