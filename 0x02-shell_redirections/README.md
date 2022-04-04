@@ -1,1 +1,1 @@
-Display the lines containing the pattern
+script that takes a list of input
