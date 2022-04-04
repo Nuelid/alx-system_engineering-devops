@@ -1,1 +1,1 @@
-list all the files with .gif
+hidden files should be listed
