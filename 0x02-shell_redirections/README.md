@@ -1,1 +1,1 @@
-deleting all the regular files
+counting the number of directories and sub-directories
