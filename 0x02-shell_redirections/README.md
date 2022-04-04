@@ -1,1 +1,1 @@
-replace all characters A and c
+Display all lines of the file
