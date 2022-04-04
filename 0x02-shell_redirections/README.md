@@ -1,1 +1,1 @@
-creates a filed named exactly
+writing into the file ls_cwd_content
