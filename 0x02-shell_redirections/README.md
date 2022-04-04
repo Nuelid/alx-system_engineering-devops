@@ -1,1 +1,1 @@
-writing into the file ls_cwd_content
+deleting all the regular files
