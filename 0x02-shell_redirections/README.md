@@ -1,1 +1,1 @@
-script that parsese web servers
+script tht parses web seevers
