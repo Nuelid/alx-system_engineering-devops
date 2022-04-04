@@ -1,1 +1,1 @@
-print Hello
+script that prints out hello
