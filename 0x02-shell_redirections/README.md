@@ -1,1 +1,1 @@
-Display the number that contain the pattern
+Display the number of lines
