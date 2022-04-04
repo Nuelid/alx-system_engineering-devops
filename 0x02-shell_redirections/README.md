@@ -1,1 +1,1 @@
-script that takes a list of input
+commands that finds all empty files
