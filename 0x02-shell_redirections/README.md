@@ -1,1 +1,1 @@
-counting the number of directories
+displays all users and their home directories
