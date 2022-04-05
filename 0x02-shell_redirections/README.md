@@ -1,1 +1,1 @@
-directory command
+command to directo
