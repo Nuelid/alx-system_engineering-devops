@@ -1,1 +1,1 @@
-duplicating last lone
+command for directories
