@@ -1,1 +1,1 @@
-directories command
+duplicating last lone
