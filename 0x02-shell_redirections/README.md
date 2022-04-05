@@ -1,1 +1,1 @@
-directories command
+no more js
